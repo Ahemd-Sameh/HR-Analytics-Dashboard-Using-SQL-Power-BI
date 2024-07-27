@@ -1,0 +1,62 @@
+Objective:
+Develop a comprehensive HR analytics dashboard to provide insights into various human resource metrics using SQL and 
+Power BI.
+
+Tools Used:
+SQL: For data extraction, transformation, and loading (ETL) processes.
+Power BI: For data visualization and dashboard creation.
+
+Steps:
+Data Collection and Preparation:
+Data Extraction:
+Utilized SQL to query HR databases and extract relevant data including employee demographics, job details, department 
+information, and location data.
+Data Transformation:
+Cleaned and transformed the data using SQL. This included handling missing values, normalizing data formats, and 
+aggregating data as required.
+Data Loading:
+Loaded the transformed data into Power BI for visualization.
+
+Dashboard Design and Development:
+Gender Distribution:
+Created bar charts to display the number of employees by gender categories (Male, Female, Non-Conforming).
+Remote vs Headquarters Distribution:
+Designed a pie chart to illustrate the percentage of employees working remotely versus at the headquarters.
+Race Distribution:
+Used bar charts to represent the number of employees across different racial categories.
+Employee Count by Department:
+Developed a bar chart showing the distribution of employees across various departments with a breakdown by gender.
+Employee Distribution by State:
+Implemented a map visualization to depict the geographical distribution of employees across different states.
+Age Group Distribution:
+Created bar charts to show the number of employees in different age groups.
+Age Group Distribution by Gender:
+Designed gender-specific bar charts for each age group category.
+Turnover Rates:
+Visualized the turnover rates across different departments using bar charts.
+Percentage Hire Change Over Time:
+Plotted a line chart to show the percentage change in hires from the year 2000 to 2020.
+
+Visualization and Interaction:
+Ensured the dashboard was interactive, allowing users to filter data by different categories such as gender, department, 
+and age group.
+Implemented tooltips and drill-down features for detailed insights.
+
+Testing and Validation:
+Conducted thorough testing to ensure data accuracy and visualization correctness.
+Validated the dashboard with stakeholders to ensure it met their requirements and provided actionable insights.
+
+Deployment:
+Deployed the dashboard on the Power BI service for easy access and sharing across the organization.
+
+Key Insights:
+Gender and Race Diversity: The organization shows a relatively balanced gender distribution but has areas to improve in 
+racial diversity.
+Remote Work: A significant portion of the workforce is working remotely, highlighting the importance of remote work policies.
+Departmental Distribution: Engineering and Accounting departments have the highest number of employees.
+Turnover Rates: Certain departments like Auditing and Legal have higher turnover rates, indicating potential areas for 
+HR intervention.
+Hiring Trends: There has been a steady increase in hiring over the past two decades, reflecting organizational growth.
+
+By following these steps and utilizing the power of SQL for data management and Power BI for visualization, the 
+HR analytics dashboard provides valuable insights that can help in strategic decision-making and improving HR processes.
